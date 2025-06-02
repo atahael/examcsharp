@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tp_examc#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4515eeaad53fc6c9b590c482a74156e689a09a41")]
 [assembly: System.Reflection.AssemblyProductAttribute("tp_examc#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tp_examc#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

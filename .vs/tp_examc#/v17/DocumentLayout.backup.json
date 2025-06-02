@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\examc#\\tp_examc#\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3C9AA673-F270-4347-8A95-EF5C690BB3ED}|tp_examc#.csproj|d:\\examc#\\tp_examc#\\notes.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3C9AA673-F270-4347-8A95-EF5C690BB3ED}|tp_examc#.csproj|solutionrelative:notes.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C9AA673-F270-4347-8A95-EF5C690BB3ED}|tp_examc#.csproj|d:\\examc#\\tp_examc#\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C9AA673-F270-4347-8A95-EF5C690BB3ED}|tp_examc#.csproj|solutionrelative:note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C9AA673-F270-4347-8A95-EF5C690BB3ED}|tp_examc#.csproj|d:\\examc#\\tp_examc#\\notedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C9AA673-F270-4347-8A95-EF5C690BB3ED}|tp_examc#.csproj|solutionrelative:notedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3C9AA673-F270-4347-8A95-EF5C690BB3ED}|tp_examc#.csproj|d:\\examc#\\tp_examc#\\utilisateurs.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{3C9AA673-F270-4347-8A95-EF5C690BB3ED}|tp_examc#.csproj|solutionrelative:utilisateurs.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -15,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{3C9AA673-F270-4347-8A95-EF5C690BB3ED}|tp_examc#.csproj|solutionrelative:module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C9AA673-F270-4347-8A95-EF5C690BB3ED}|tp_examc#.csproj|d:\\examc#\\tp_examc#\\notes.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{3C9AA673-F270-4347-8A95-EF5C690BB3ED}|tp_examc#.csproj|solutionrelative:notes.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3C9AA673-F270-4347-8A95-EF5C690BB3ED}|tp_examc#.csproj|d:\\examc#\\tp_examc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C9AA673-F270-4347-8A95-EF5C690BB3ED}|tp_examc#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C9AA673-F270-4347-8A95-EF5C690BB3ED}|tp_examc#.csproj|d:\\examc#\\tp_examc#\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C9AA673-F270-4347-8A95-EF5C690BB3ED}|tp_examc#.csproj|solutionrelative:note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C9AA673-F270-4347-8A95-EF5C690BB3ED}|tp_examc#.csproj|d:\\examc#\\tp_examc#\\enseignant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,10 +99,6 @@
       "RelativeMoniker": "D:0:0:{3C9AA673-F270-4347-8A95-EF5C690BB3ED}|tp_examc#.csproj|solutionrelative:tp_examc#.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C9AA673-F270-4347-8A95-EF5C690BB3ED}|tp_examc#.csproj|d:\\examc#\\tp_examc#\\notedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C9AA673-F270-4347-8A95-EF5C690BB3ED}|tp_examc#.csproj|solutionrelative:notedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3C9AA673-F270-4347-8A95-EF5C690BB3ED}|tp_examc#.csproj|d:\\examc#\\tp_examc#\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C9AA673-F270-4347-8A95-EF5C690BB3ED}|tp_examc#.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -118,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,46 +134,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "modules.csv",
-              "DocumentMoniker": "D:\\examc#\\tp_examc#\\modules.csv",
-              "RelativeDocumentMoniker": "modules.csv",
-              "ToolTip": "D:\\examc#\\tp_examc#\\modules.csv",
-              "RelativeToolTip": "modules.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-06-02T00:03:11.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "utilisateurs.csv",
-              "DocumentMoniker": "D:\\examc#\\tp_examc#\\utilisateurs.csv",
-              "RelativeDocumentMoniker": "utilisateurs.csv",
-              "ToolTip": "D:\\examc#\\tp_examc#\\utilisateurs.csv",
-              "RelativeToolTip": "utilisateurs.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-06-01T15:22:10.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "notes.csv",
               "DocumentMoniker": "D:\\examc#\\tp_examc#\\notes.csv",
               "RelativeDocumentMoniker": "notes.csv",
               "ToolTip": "D:\\examc#\\tp_examc#\\notes.csv",
               "RelativeToolTip": "notes.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
               "WhenOpened": "2025-06-02T00:03:36.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "FormEtudiant.cs [Design]",
               "DocumentMoniker": "D:\\examc#\\tp_examc#\\FormEtudiant.cs",
               "RelativeDocumentMoniker": "FormEtudiant.cs",
@@ -184,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "UtilisateurDao.cs",
               "DocumentMoniker": "D:\\examc#\\tp_examc#\\UtilisateurDao.cs",
               "RelativeDocumentMoniker": "UtilisateurDao.cs",
@@ -196,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "FormEtudiant.cs",
               "DocumentMoniker": "D:\\examc#\\tp_examc#\\FormEtudiant.cs",
               "RelativeDocumentMoniker": "FormEtudiant.cs",
@@ -208,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ModuleDao.cs",
               "DocumentMoniker": "D:\\examc#\\tp_examc#\\ModuleDao.cs",
               "RelativeDocumentMoniker": "ModuleDao.cs",
@@ -220,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "FormEnseignant.cs",
               "DocumentMoniker": "D:\\examc#\\tp_examc#\\FormEnseignant.cs",
               "RelativeDocumentMoniker": "FormEnseignant.cs",
@@ -233,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Enseignant.cs",
               "DocumentMoniker": "D:\\examc#\\tp_examc#\\Enseignant.cs",
               "RelativeDocumentMoniker": "Enseignant.cs",
@@ -246,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Module.cs",
               "DocumentMoniker": "D:\\examc#\\tp_examc#\\Module.cs",
               "RelativeDocumentMoniker": "Module.cs",
@@ -259,20 +233,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\examc#\\tp_examc#\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\examc#\\tp_examc#\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAWwA8AAAAMAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "NoteDao.cs",
+              "DocumentMoniker": "D:\\examc#\\tp_examc#\\NoteDao.cs",
+              "RelativeDocumentMoniker": "NoteDao.cs",
+              "ToolTip": "D:\\examc#\\tp_examc#\\NoteDao.cs",
+              "RelativeToolTip": "NoteDao.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAjwB4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T17:54:51.34Z",
+              "WhenOpened": "2025-06-02T00:02:01.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "modules.csv",
+              "DocumentMoniker": "D:\\examc#\\tp_examc#\\modules.csv",
+              "RelativeDocumentMoniker": "modules.csv",
+              "ToolTip": "D:\\examc#\\tp_examc#\\modules.csv",
+              "RelativeToolTip": "modules.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-06-02T00:03:11.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Note.cs",
               "DocumentMoniker": "D:\\examc#\\tp_examc#\\Note.cs",
               "RelativeDocumentMoniker": "Note.cs",
@@ -285,7 +272,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
+              "Title": "utilisateurs.csv",
+              "DocumentMoniker": "D:\\examc#\\tp_examc#\\utilisateurs.csv",
+              "RelativeDocumentMoniker": "utilisateurs.csv",
+              "ToolTip": "D:\\examc#\\tp_examc#\\utilisateurs.csv",
+              "RelativeToolTip": "utilisateurs.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-06-01T15:22:10.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\examc#\\tp_examc#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\examc#\\tp_examc#\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAWwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T17:54:51.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "FormEtudiant.Designer.cs",
               "DocumentMoniker": "D:\\examc#\\tp_examc#\\FormEtudiant.Designer.cs",
               "RelativeDocumentMoniker": "FormEtudiant.Designer.cs",
@@ -297,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "FormEnseignant.cs [Design]",
               "DocumentMoniker": "D:\\examc#\\tp_examc#\\FormEnseignant.cs",
               "RelativeDocumentMoniker": "FormEnseignant.cs",
@@ -308,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "FormEnseignant.Designer.cs",
               "DocumentMoniker": "D:\\examc#\\tp_examc#\\FormEnseignant.Designer.cs",
               "RelativeDocumentMoniker": "FormEnseignant.Designer.cs",
@@ -320,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "FormAdmin.cs",
               "DocumentMoniker": "D:\\examc#\\tp_examc#\\FormAdmin.cs",
               "RelativeDocumentMoniker": "FormAdmin.cs",
@@ -333,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "FormAdmin.cs [Design]",
               "DocumentMoniker": "D:\\examc#\\tp_examc#\\FormAdmin.cs",
               "RelativeDocumentMoniker": "FormAdmin.cs",
@@ -344,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "FormAdmin.Designer.cs",
               "DocumentMoniker": "D:\\examc#\\tp_examc#\\FormAdmin.Designer.cs",
               "RelativeDocumentMoniker": "FormAdmin.Designer.cs",
@@ -356,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "FormLogin.cs",
               "DocumentMoniker": "D:\\examc#\\tp_examc#\\FormLogin.cs",
               "RelativeDocumentMoniker": "FormLogin.cs",
@@ -369,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "FormLogin.Designer.cs",
               "DocumentMoniker": "D:\\examc#\\tp_examc#\\FormLogin.Designer.cs",
               "RelativeDocumentMoniker": "FormLogin.Designer.cs",
@@ -381,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "FormLogin.cs [Design]",
               "DocumentMoniker": "D:\\examc#\\tp_examc#\\FormLogin.cs",
               "RelativeDocumentMoniker": "FormLogin.cs",
@@ -392,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Etudiant.cs",
               "DocumentMoniker": "D:\\examc#\\tp_examc#\\Etudiant.cs",
               "RelativeDocumentMoniker": "Etudiant.cs",
@@ -404,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "tp_examc#.csproj",
               "DocumentMoniker": "D:\\examc#\\tp_examc#\\tp_examc#.csproj",
               "RelativeDocumentMoniker": "tp_examc#.csproj",
@@ -413,18 +426,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-06-01T23:57:43.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "NoteDao.cs",
-              "DocumentMoniker": "D:\\examc#\\tp_examc#\\NoteDao.cs",
-              "RelativeDocumentMoniker": "NoteDao.cs",
-              "ToolTip": "D:\\examc#\\tp_examc#\\NoteDao.cs",
-              "RelativeToolTip": "NoteDao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T00:02:01.426Z"
             },
             {
               "$type": "Document",
