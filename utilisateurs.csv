@@ -1,0 +1,8 @@
+Id,Role,Nom,Prenom,Email,MotDePasse
+1,Admin,Admin,Principal,admin@admin.com,admin123
+2,Etudiant,Dupont,Jean,jean.dupont@example.com,etudiant123
+3,Etudiant,Martin,Sophie,sophie.martin@example.com,etudiant123
+4,Etudiant,Leroy,Paul,paul.leroy@example.com,etudiant123
+5,Etudiant,Nguyen,Linh,linh.nguyen@example.com,etudiant123
+6,Etudiant,Kone,Aïcha,aicha.kone@example.com,etudiant123
+7,Enseignant,Lemoine,Claire,claire.lemoine@example.com,enseignant123
